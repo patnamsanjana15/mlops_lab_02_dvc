@@ -1,5 +1,5 @@
 [core]
-    remote = lab2
     analytics = false
+    remote = lab2
 ['remote "lab2"']
-    url = gs://sanjanadvclabbucket
+    url = gs://sanjana-dvc-lab-bucket
