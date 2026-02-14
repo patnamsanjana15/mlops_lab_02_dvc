@@ -1,0 +1,5 @@
+[core]
+    remote = lab2
+['remote "lab2"']
+    url = gs://sanjanadvclabbucket
+    credentialpath = /Users/sanjana/Downloads/dvc-lab-project-4237ab6cd630.json
