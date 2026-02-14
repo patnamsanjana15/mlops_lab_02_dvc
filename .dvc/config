@@ -2,4 +2,3 @@
     remote = lab2
 ['remote "lab2"']
     url = gs://sanjanadvclabbucket
-    credentialpath = ..
