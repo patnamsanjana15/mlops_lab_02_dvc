@@ -1,4 +1,5 @@
 [core]
     remote = lab2
+    analytics = false
 ['remote "lab2"']
     url = gs://sanjanadvclabbucket
